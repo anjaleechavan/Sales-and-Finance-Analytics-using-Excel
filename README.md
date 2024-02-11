@@ -22,3 +22,10 @@ DAX Measures:
 ⚙️Utilized **Pivot Tables** for analyzing sales and finance trends over different time periods (year, month, quarter).
 
 💲Generated **Profit and Loss Statements** to compare actual performance with targets, identifying areas of success and improvement opportunities.
+
+ ### 🚀Impact:
+
+**Efficient Data Management**: Made it quicker and easier for Atliq Hardware to locate and utilize their sales and finance data.
+
+**Enhanced Analysis**: Facilitated more effective analysis of sales trends, financial performance, and key metrics by having all data in one central location.
+
