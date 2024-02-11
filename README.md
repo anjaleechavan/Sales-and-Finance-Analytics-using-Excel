@@ -1,28 +1,24 @@
-# Sales & Finance Analytics using Excel
+## Project Showcase: Sales and Finance Analytics for Atliq Hardware
 
-The project objective is to conduct comprehensive sales and finance analytics to drive informed decision-making and enhance business performance.
+### 📊 Objective:
+To streamline sales and finance analytics for Atliq Hardware, a leading hardware manufacturing company, by consolidating scattered Excel files and generating insightful reports using various Excel tools.
 
-#### 📊 Sales Analytics 
-##### To understand customer behavior, optimize sales strategies, and maximize revenue by analyzing sales data, customer trends, and performance metrics.
+### 💡Approach:
 
-The following reports are tailored for sales analytics.<br>
-1.Customer Net Sales Performance<br>
-2.Market Performance vs Target<br>
-3.Top 10 Products 2021 vs 2020<br>
-4.Top 5 Products by Sold Quantity<br>
-5.Bottom 5 Products by Sold Quantity<br>
-6.Top 5 Country by Net Sales in 2021 <br>
-7.Division Level Report<br>
-8.New Products added in 2021 <br>
+📄Data Gathering:
+Extracted data from multiple Excel files containing sales and finance information.
+**ETL** Process (Extract, Transform, Load) using Power Query:
 
+⚡Utilized **Power Query** to clean, transform, and load the gathered data, ensuring consistency and accuracy.
+Data Modeling:
 
-#### 💵 Finance Analytics 
-##### To understand performance trends across different time periods such as years, months, and quarters. This analysis helps in identifying patterns, making informed decisions.
+👩‍💻Leveraged **Power Pivot** to create a unified data model, establishing relationships between various Excel files.
+DAX Measures:
 
-The following reports are crafted for finance analytics <br>
-1.P & L by Fiscal Year<br>
-2.P & L by Fiscal Month , Quarters<br>
-3.P & L for Market (Countries)	<br>
-4.Gross Margin % by Subzones<br>
+📟Created **DAX measures** using Power Pivot to derive meaningful insights from the transformed data, such as net sales, gross margin, and cost of goods sold.
 
+### Analytical Tools:
 
+⚙️Utilized **Pivot Tables** for analyzing sales and finance trends over different time periods (year, month, quarter).
+
+💲Generated **Profit and Loss Statements** to compare actual performance with targets, identifying areas of success and improvement opportunities.
