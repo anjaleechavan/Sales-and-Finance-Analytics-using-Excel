@@ -1,4 +1,4 @@
-## Project Showcase: Sales and Finance Analytics for Atliq Hardware
+## Project Showcase: Sales and Finance Analytics for Atliq Hardware using Excel
 
 ### 📊 Objective:
 To streamline sales and finance analytics for Atliq Hardware, a leading hardware manufacturing company, by consolidating scattered Excel files and generating insightful reports using various Excel tools.
@@ -17,7 +17,7 @@ DAX Measures:
 
 📟Created **DAX measures** using Power Pivot to derive meaningful insights from the transformed data, such as net sales, gross margin, and cost of goods sold.
 
-### Analytical Tools:
+### 🔍Analytical Tools:
 
 ⚙️Utilized **Pivot Tables** for analyzing sales and finance trends over different time periods (year, month, quarter).
 
@@ -25,7 +25,7 @@ DAX Measures:
 
  ### 🚀Impact:
 
-**Efficient Data Management**: Made it quicker and easier for Atliq Hardware to locate and utilize their sales and finance data.
+**⚡Efficient Data Management**: Made it quicker and easier for Atliq Hardware to locate and utilize their sales and finance data.
 
-**Enhanced Analysis**: Facilitated more effective analysis of sales trends, financial performance, and key metrics by having all data in one central location.
+**📈Enhanced Analysis**: Facilitated more effective analysis of sales trends, financial performance, and key metrics by having all data in one central location.
 
